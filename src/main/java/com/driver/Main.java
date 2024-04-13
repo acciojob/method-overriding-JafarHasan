@@ -1,5 +1,5 @@
 package com.driver;
-class A{
+ class A{
     public String meth(){
         return "Invoking method from class A";
     }
